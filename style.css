@@ -1,0 +1,16 @@
+.name {
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+}
+
+.caption-box {
+    margin-left: 180px;
+    margin-bottom: 100px;
+    width: 400px;
+    height: 300px;
+}
+
+.caption-box h1 {
+    color: white;
+}
