@@ -14,3 +14,18 @@
 .caption-box h1 {
     color: white;
 }
+
+.quotation {
+    color: gray;
+    font-size: 30px;
+}
+
+.filled-star {
+    color: #ff7300;
+    font-size: 18px;
+}
+
+.empty-star {
+    color: #f29808;
+    font-size: 18px;
+}
