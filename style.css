@@ -29,3 +29,11 @@
     color: #f29808;
     font-size: 18px;
 }
+
+.social-icon i {
+    background-color: gray;
+    color: white;
+    font-size: 15px;
+    border-radius: 50%;
+    padding: 10px;
+}
